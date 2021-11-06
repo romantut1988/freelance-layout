@@ -52,7 +52,7 @@ header {
 .header__phone:before {
     position: absolute;
     content: "\f095";
-    font-family: 'icomoon' !important;
+    font-family: 'icomoon';
     left: 0;
     color: #ffc222;
 }
@@ -61,13 +61,30 @@ header {
     padding-left: 24px;
 }
 
+.header__email:before {
+    position: absolute;
+    content: "\f003";
+    font-family: 'icomoon';
+    left: 0;
+    color: #ffc222;
+}
+
 .header__btn {
+    position: relative;
     float: right;
     line-height: 36px;
     color: #1b1b1b;
     background-color: #ffc222;
     padding: 5px 20px 4px 50px;
     font-size: 16px;
+}
+
+.header__btn:before {
+    position: absolute;
+    content: "\f0b1";
+    font-family: 'icomoon';
+    left: 22px;
+    color: #1b1b1b;
 }
 
 .header__contacts:after {
