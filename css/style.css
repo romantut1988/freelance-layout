@@ -147,8 +147,38 @@ header {
     font-size: 30px;
     line-height: 36px;
     font-weight: 500;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     color: #fff;
     margin-bottom: 22px;
     font-family: 'Roboto', sans-serif;
+}
+
+.slider__text {
+    line-height: 24px;
+    font-size: 18px;
+    color: #d3d2d2;
+    margin-bottom: 50px;
+}
+
+.default-btn {
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    padding: 8px 30px 8px 24px;
+    border: 1px solid #ffc222;
+    border-right-width: 20px;
+}
+
+.default-btn:after {
+    position: absolute;
+    content: "\f105";
+    font-family: 'icomoon';
+    top: 50%;
+    transform: translateY(-50%);
+    right: -12px;
 }
