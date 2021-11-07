@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6dd990-704f-447c-a119-7a6f236e795d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/jquery.fancybox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <workItem from="1636220154152" duration="16000" />
       <workItem from="1636220171625" duration="612000" />
       <workItem from="1636264823665" duration="609000" />
-      <workItem from="1636265438966" duration="608000" />
+      <workItem from="1636265438966" duration="1579000" />
     </task>
     <servers />
   </component>
