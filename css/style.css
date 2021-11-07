@@ -126,3 +126,11 @@ header {
 #modal {
     display: none;
 }
+
+.slider {
+    background-image: url(../img/slider-fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
