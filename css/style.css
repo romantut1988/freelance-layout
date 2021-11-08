@@ -335,7 +335,33 @@ header {
     background-position: center;
     min-height: 300px;
     background-repeat: no-repeat;
+    padding: 25px 0 45px;
 }
+
+.about__inner {
+    max-width: 545px;
+}
+
+.about__title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #fff;
+    padding: 10px 0 25px;
+}
+
+.about__text {
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #d3d2d2;
+    margin-bottom: 30px;
+}
+
+.about__btn.default-btn:after {
+    color: #000;
+}
+
 
 
 
