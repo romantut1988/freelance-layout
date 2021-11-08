@@ -229,3 +229,7 @@ header {
 .slick-prev:before {
     content: '\f104';
 }
+
+.about {
+    padding: 50px 0px 30px;
+}
