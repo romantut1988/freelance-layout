@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6dd990-704f-447c-a119-7a6f236e795d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/jquery.formstyler.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.formstyler.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery.formstyler.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
       <workItem from="1636377763083" duration="3857000" />
       <workItem from="1636381664024" duration="24000" />
       <workItem from="1636406622077" duration="2564000" />
-      <workItem from="1636438854882" duration="2799000" />
+      <workItem from="1636438854882" duration="6977000" />
     </task>
     <servers />
   </component>
