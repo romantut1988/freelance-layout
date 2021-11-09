@@ -523,3 +523,12 @@ header {
     color: #282828;
     float: right;
 }
+
+.advantages {
+    padding: 55px 0 40px;
+    background-image: url("../img/adv-fon.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 285px;
+}
