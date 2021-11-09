@@ -362,6 +362,44 @@ header {
     color: #000;
 }
 
+.form {
+    padding-top: 30px;
+}
 
+.form__inner {
+    padding-bottom: 40px;
+    background-image: url("../img/form-fon.png");
+    min-height: 460px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
 
+.form__title-box {
+    position: relative;
+    max-width: 520px;
+    padding-left: 140px;
+}
+
+.form__title-box:before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    background-color: #ffc222;
+    left: 0;
+    top: 11px;
+}
+
+.form__title {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: #212020;
+    margin-bottom: 10px;
+}
+
+.form__text {
+    letter-spacing: 0.1px;
+}
 
