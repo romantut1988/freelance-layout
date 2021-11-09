@@ -403,3 +403,19 @@ header {
     letter-spacing: 0.1px;
 }
 
+.form__box {
+    max-width: 850px;
+}
+
+.form__box-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form__box-left {
+    max-width: 260px;
+}
+
+.form__box-right {
+    max-width: 555px;
+}
