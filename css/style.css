@@ -565,6 +565,16 @@ header {
     transform: translateX(-50%);
 }
 
+.advantages__title:after {
+    content: "\f00c";
+    font-family: "icomoon";
+    font-size: 14px;
+    position: absolute;
+    top: 9px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .advantages__text {
     line-height: 24px;
     color: #d3d2d2;
