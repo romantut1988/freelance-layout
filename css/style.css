@@ -580,3 +580,50 @@ header {
     color: #d3d2d2;
     letter-spacing: 0.1px;
 }
+
+.news {
+    padding: 55px 0 110px;
+}
+
+.news__top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.news__title-box {
+    position: relative;
+    max-width: 520px;
+    padding-left: 140px;
+}
+
+.news__title-box:before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    background-color: #ffc222;
+    left: 0;
+    top: 11px;
+}
+
+.news__title {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: #212020;
+    margin-bottom: 10px;
+}
+
+.news__text {
+    letter-spacing: 0.1px;
+}
+
+.news__btn a {
+    color: #373636;
+    line-height: 24px;
+    letter-spacing: 0.25px;
+    padding: 5px 38px;
+    border: 3px solid #e6e6e6;
+}
