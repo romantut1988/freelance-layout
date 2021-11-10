@@ -583,6 +583,7 @@ header {
 
 .news {
     padding: 55px 0 110px;
+    background-color: #f9f9f9;
 }
 
 .news__inner {
@@ -593,6 +594,7 @@ header {
 .news__slider {
     max-width: 555px;
     width: 100%;
+    background-color: #fff;
 }
 
 .news__top {
