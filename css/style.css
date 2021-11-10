@@ -592,10 +592,27 @@ header {
 }
 
 .news__slider {
+    position: relative;
     max-width: 555px;
     width: 100%;
     background-color: #fff;
     box-shadow: 0px 5px 15.36px 0.64px rgba(128, 127, 127, 0.13);
+    padding: 60px 35px 45px 70px;
+}
+
+.news__slider:before {
+    position: absolute;
+    content: "\f10e";
+    font-family: 'icomoon';
+    color: #fff;
+    font-size: 16px;
+    width: 65px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: #ffc222;
+    top: 0;
+    left: 70px;
 }
 
 .news__top {
