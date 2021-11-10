@@ -532,3 +532,10 @@ header {
     background-size: cover;
     min-height: 285px;
 }
+
+.advantages__inner {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
