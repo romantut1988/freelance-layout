@@ -736,3 +736,7 @@ header {
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
 }
+
+.footer__content {
+    background-color: #595959;
+}
