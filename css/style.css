@@ -26,6 +26,7 @@ body {
     font-size: 14px;
     line-height: 18px;
     color: #5e5e5e;
+    background-color: red;
 }
 
 header {
@@ -794,6 +795,7 @@ header {
     font-family: 'icomoon';
     left: 0;
     color: #ffc222;
+
 }
 
 .footer__list .footer__phone:before {
