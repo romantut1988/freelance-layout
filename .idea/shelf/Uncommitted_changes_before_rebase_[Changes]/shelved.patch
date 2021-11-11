@@ -6,8 +6,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/workspace.xml b/.idea/workspace.xml
---- a/.idea/workspace.xml	(revision 4207f5538b277e487a6f6786b66de47e2c92b213)
-+++ b/.idea/workspace.xml	(date 1636654058952)
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
 @@ -1,7 +1,10 @@
  <?xml version="1.0" encoding="UTF-8"?>
  <project version="4">
