@@ -53,3 +53,10 @@
         display: block !important;
     }
 }
+
+
+@media (min-width: 700px) {
+   .menu ul {
+       display: block !important;
+   }
+}
