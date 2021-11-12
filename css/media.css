@@ -1,3 +1,8 @@
+@media (max-width: 900px) {
+    .slider .slick-btn {
+        display: none !important;
+    }
+}
 @media (max-width: 700px) {
     .header__btn {
         float: none;
