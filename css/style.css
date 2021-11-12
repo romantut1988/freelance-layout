@@ -810,6 +810,11 @@ header {
 .footer__map {
     max-width: 630px;
     padding-top: 10px;
+    width: 100%;
+}
+
+.footer__map iframe {
+    width: 100%;
 }
 
 .footer__copy {
