@@ -65,3 +65,12 @@
        display: block !important;
    }
 }
+
+@media (max-width: 414px) {
+    .slider__title {
+        font-size: 24px;
+    }
+    .slider__text {
+        font-size: 16px;
+    }
+}
